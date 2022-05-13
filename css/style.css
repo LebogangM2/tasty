@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-header .display-tc .form-inline .form-group .form-control,
 .fh5co-cover .display-tc .form-inline .form-group .form-control {
   width: 100%;
-  background: #fff;
+  background: rgb(124, 122, 122);
   border: none;
 }
 
@@ -478,7 +478,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #fh5co-featured-menu .fh5co-heading h2, #fh5co-gallery .fh5co-heading h2, #fh5co-reservation-form .fh5co-heading h2 {
-  color: #fff;
+  color: rgb(10, 10, 10);
   font-family: "Satisfy", cursive;
 }
 #fh5co-featured-menu .fh5co-item-wrap, #fh5co-gallery .fh5co-item-wrap, #fh5co-reservation-form .fh5co-item-wrap {
@@ -488,7 +488,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-menu .fh5co-item, #fh5co-gallery .fh5co-item, #fh5co-reservation-form .fh5co-item {
   float: left;
   width: 100%;
-  background: #fff;
+  background: rgb(189, 185, 185);
 }
 #fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
   margin-top: 150px;
@@ -537,7 +537,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #form-wrap {
-  border: 4px solid rgba(255, 255, 255, 0.04);
+  border: 4px solid black;
   padding: 30px;
 }
 #form-wrap .form-group:last-child {
@@ -556,7 +556,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #fh5co-featured-testimony .fh5co-heading h2 {
-  color: #fff;
+  color: rgb(12, 11, 11);
   font-family: "Satisfy", cursive;
 }
 #fh5co-featured-testimony .img-to-responsive img {
@@ -1588,8 +1588,8 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 0px;
   -ms-border-radius: 0px;
   border-radius: 0px;
-  background: transparent;
-  color: #fff;
+  background: rgb(167, 162, 162);
+  color: black;
   text-transform: uppercase;
   font-size: 14px !important;
   letter-spacing: 1px;
@@ -1717,27 +1717,28 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .form-group {
   margin-bottom: 30px !important;
+
 }
 .form-group label {
-  color: #fff;
+  color: black;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
 .form-control {
   box-shadow: none;
-  background: transparent;
-  border: 2px solid rgba(255, 255, 255, 0.3);
+  background: rgb(233, 230, 230);
+  border: 2px solid black;
   height: 54px;
   font-size: 20px;
   font-weight: 300;
   font-family: "Satisfy", cursive;
-  color: #fff;
+  color: rgb(15, 15, 15);
 }
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #fff;
+  border-color: rgb(15, 15, 15);
 }
 
 textarea {
